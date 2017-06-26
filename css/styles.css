@@ -1,9 +1,39 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
-hr {
-    width: 100%;
+h1,h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+.divider {
     height: 4px;
-    background: #7d97ad;   
+    background: #7d97ad;
+    margin: 10px;
+}
+
+.page-header {
+    color: #2d3c49;
+}
+
+#name {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+article {
+    text-align: center;
 }

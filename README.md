@@ -1,5 +1,5 @@
 # portfolio_site
-Website to display portfolio - part of Udacity Full Stack Web Developer Course
+Website to display portfolio of Doug Wight - part of Udacity Full Stack Web Developer Course
 
 ## Aim of site
 - produce a responsive website
@@ -8,7 +8,8 @@ Website to display portfolio - part of Udacity Full Stack Web Developer Course
 Launch the index.html in a browser
 
 ### To-Dos
-- lots!
+- Add favicon
+- Tidy up / complete the Featured Work items on github.
 
 ### Creator
 Doug Wight, dcfwight@gmail.com
