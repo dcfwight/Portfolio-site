@@ -19,12 +19,6 @@ p {
     text-align: center;
 }
 
-.divider {
-    height: 4px;
-    background: #7d97ad;
-    margin: 10px;
-}
-
 .page-header {
     color: #2d3c49;
 }
@@ -32,6 +26,12 @@ p {
 #name {
     text-align: center;
     text-transform: uppercase;
+}
+
+.divider {
+    height: 4px;
+    background: #7d97ad;
+    margin: 10px;
 }
 
 article {
