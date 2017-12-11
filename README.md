@@ -12,9 +12,7 @@ Website to display portfolio of Doug Wight - part of Udacity Full Stack Web Deve
 Launch the index.html in a browser of your choice.
 
 ### To-Dos
-- Add favicon
-- Make the picture responsive to size - i.e. fit into bootstrap container
-- Tidy up / complete the Featured Work items on github.
+- Add a README for the NodeJS project
 
 ### Creator
 Doug Wight, dcfwight@gmail.com
