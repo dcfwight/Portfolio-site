@@ -9,7 +9,7 @@ Website to display portfolio of Doug Wight - part of Udacity Full Stack Web Deve
 - Stylesheets, basic file organisation
 
 ## Usage
-Launch the index.html in a browser
+Launch the index.html in a browser of your choice.
 
 ### To-Dos
 - Add favicon
