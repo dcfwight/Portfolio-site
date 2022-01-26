@@ -1,4 +1,4 @@
-# Front end Portfolio site
+# Front end Responsive Portfolio site using Bootstrap
 Website to display portfolio of Doug Wight - part of Udacity Full Stack Web Developer Course
 
 ## Aim of site
@@ -15,4 +15,4 @@ Launch the index.html in a browser of your choice.
 - Add a README for the NodeJS project
 
 ### Creator
-Doug Wight, dcfwight@gmail.com
+Doug Wight, dcfwight@protonmail.com
